@@ -1,6 +1,6 @@
 {
   "servers": {
-    "description": "预设的服务器列表，可在webui中添加、编辑和删除",
+    "description": "预设的服务器列表，可在指令中添加、编辑和删除，目前不支持webui配置",
     "type": "list",
     "items": {
       "type": "object",
